@@ -1,0 +1,6 @@
+@StreamerAwards_HostAddress = http://localhost:5226
+
+GET {{StreamerAwards_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
